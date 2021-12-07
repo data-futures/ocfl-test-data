@@ -1,1 +1,61 @@
-{"id":"pwy27-kt275","type":"https://ocfl.io/1.0/spec/#inventory","digestAlgorithm":"sha512","head":"v1","contentDirectory":"content","fixity":{},"manifest":{"59ba5c7d92aa684c543077e5f6d4ae842f7c39ff949392e7c0dc7ca456d621d59a1fd521186ac780213d6e6828cd394487f7a79d47c2059effaa20bd64998716":["v1/content/meta/record.json"],"6a359acac2176469185174277af8b438366cd75bffdf452a495ff477eec32b4932f93b3c4a364725b323d108fb58dc4f57b22d9bfbdec81da6b72a9e81c68217":["v1/content/files/curiosity_0004.png"],"78b84408ca533b00ce639e84e024d2c7c13f2e7147c9f22c5063c2cc1e03548166a31998f24af7f027a2e76289f1cdd12c2b290cb4f13e989c77947a4b38cd77":["v1/content/meta/files.json"],"b1f38db11c4a27d4fa2d078ccbffb5c5f4eacb173bdef1a1b503cae9e56694171755b88aa16c5fee794607488efa628a90c4d32e61cce27084bb0f1ff37c4c99":["v1/content/files/curiosity_0009.png"]},"versions":{"v1":{"created":"2021-11-17T22:16:59.284372Z","state":{"59ba5c7d92aa684c543077e5f6d4ae842f7c39ff949392e7c0dc7ca456d621d59a1fd521186ac780213d6e6828cd394487f7a79d47c2059effaa20bd64998716":["meta/record.json"],"6a359acac2176469185174277af8b438366cd75bffdf452a495ff477eec32b4932f93b3c4a364725b323d108fb58dc4f57b22d9bfbdec81da6b72a9e81c68217":["files/curiosity_0004.png"],"78b84408ca533b00ce639e84e024d2c7c13f2e7147c9f22c5063c2cc1e03548166a31998f24af7f027a2e76289f1cdd12c2b290cb4f13e989c77947a4b38cd77":["meta/files.json"],"b1f38db11c4a27d4fa2d078ccbffb5c5f4eacb173bdef1a1b503cae9e56694171755b88aa16c5fee794607488efa628a90c4d32e61cce27084bb0f1ff37c4c99":["files/curiosity_0009.png"]}}}}
+{
+  "id": "https://ocfl.dev.data-futures.org/records/pwy27-kt275",
+  "type": "https://ocfl.io/1.0/spec/#inventory",
+  "digestAlgorithm": "sha512",
+  "head": "v1",
+  "contentDirectory": "content",
+  "fixity": {
+    "md5": {
+      "fa3b3f832e8d8edcf595e7320554d82b": [
+        "v1/content/meta/record.json"
+      ],
+      "ffcd49610477229d8cd12e7beecc589b": [
+        "v1/content/files/curiosity_0004.png"
+      ],
+      "bb2ecad147d460e8cf1f0db7b0ce8cbb": [
+        "v1/content/meta/files.json"
+      ],
+      "1221ce2f2bbf920e3a7a07d76b0be858": [
+        "v1/content/files/curiosity_0009.png"
+      ]
+    }
+  },
+  "manifest": {
+    "59ba5c7d92aa684c543077e5f6d4ae842f7c39ff949392e7c0dc7ca456d621d59a1fd521186ac780213d6e6828cd394487f7a79d47c2059effaa20bd64998716": [
+      "v1/content/meta/record.json"
+    ],
+    "6a359acac2176469185174277af8b438366cd75bffdf452a495ff477eec32b4932f93b3c4a364725b323d108fb58dc4f57b22d9bfbdec81da6b72a9e81c68217": [
+      "v1/content/files/curiosity_0004.png"
+    ],
+    "78b84408ca533b00ce639e84e024d2c7c13f2e7147c9f22c5063c2cc1e03548166a31998f24af7f027a2e76289f1cdd12c2b290cb4f13e989c77947a4b38cd77": [
+      "v1/content/meta/files.json"
+    ],
+    "b1f38db11c4a27d4fa2d078ccbffb5c5f4eacb173bdef1a1b503cae9e56694171755b88aa16c5fee794607488efa628a90c4d32e61cce27084bb0f1ff37c4c99": [
+      "v1/content/files/curiosity_0009.png"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2021-11-17T22:16:59.284372Z",
+      "user" : {
+        "name" : "data-futures.org",
+        "address": "mailto:ocfl-export@data-futures.org"
+      },
+      "message" : "Exported from https://ocfl.dev.data-futures.org",
+      "state": {
+        "59ba5c7d92aa684c543077e5f6d4ae842f7c39ff949392e7c0dc7ca456d621d59a1fd521186ac780213d6e6828cd394487f7a79d47c2059effaa20bd64998716": [
+          "meta/record.json"
+        ],
+        "6a359acac2176469185174277af8b438366cd75bffdf452a495ff477eec32b4932f93b3c4a364725b323d108fb58dc4f57b22d9bfbdec81da6b72a9e81c68217": [
+          "files/curiosity_0004.png"
+        ],
+        "78b84408ca533b00ce639e84e024d2c7c13f2e7147c9f22c5063c2cc1e03548166a31998f24af7f027a2e76289f1cdd12c2b290cb4f13e989c77947a4b38cd77": [
+          "meta/files.json"
+        ],
+        "b1f38db11c4a27d4fa2d078ccbffb5c5f4eacb173bdef1a1b503cae9e56694171755b88aa16c5fee794607488efa628a90c4d32e61cce27084bb0f1ff37c4c99": [
+          "files/curiosity_0009.png"
+        ]
+      }
+    }
+  }
+}

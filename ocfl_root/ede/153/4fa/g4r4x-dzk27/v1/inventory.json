@@ -1,1 +1,133 @@
-{"id":"g4r4x-dzk27","type":"https://ocfl.io/1.0/spec/#inventory","digestAlgorithm":"sha512","head":"v1","contentDirectory":"content","fixity":{},"manifest":{"0f1ebab95e178060a308e9a995c8018f14cd983f5440dbcb11824bf07864fd2d13c94566cd75e73e4f849fe53b3e6934a243af9ec4328820269a252dd6b807a8":["v1/content/files/page-01.jpg"],"1061473819a743f6eef9482219abbff42876a5863daec4daeb1a059f3a323bcfa8ac08f71ff3b1da1010727b0ba164ac02f99beed26ce474a87d4d052a141b0c":["v1/content/files/page-04.jpg"],"12d4b628a084ca106bce56455b4778a3b2cdb262c5eb4d44ba41ada2fe5b9f6c30b9525880c888d20c591d62b3442cdd473f362c18b6ffd1cc923c6b47e7e28d":["v1/content/meta/files.json"],"270ffb7fc6771f9c1d49bcfbb2c5d75f873eb18da862de7da975393aca25249604826d15f8eb4f0a995fdc24de2e9115ac2676b71b5c747bac7b32763c9c1e29":["v1/content/files/page-06.jpg"],"280968d8126d72e51ce4164d276b9960e8274c16e505191115f08c4f9c67be9d828e2876eac293e23e3792b62e9d5180397eaad52315c726caf0429a3682b74f":["v1/content/files/page-05.jpg"],"38444da79278cf829aebe8a3c68e9ebebba14cea7355b30e22f3654160739404d107957127b42f6fc1a965a29be59f2853d1a24471b2594fbcfddcddcebf1515":["v1/content/meta/record.json"],"39f68b0ac14f343c7fc46d05b6f6e37089746eb8a426c8c2accbf7cd2acb1ac005ab24dae514fc54a4a32569bd56e36ef50d0888ed6884e2c670191d228a5fd6":["v1/content/files/page-07.jpg"],"7093278b2d5d72e88b8a0618025daf3f04c27f96b68da1ccf28dfd41eab295b095cdbad936e263d9d0fc17fe3e9ff7b01232dafb93032c7b62d1a1f0510b0d44":["v1/content/files/page-09.jpg"],"a4c119d84ad390727619d9f14e116955cc72d59cb3f768698503fe3b0cd53ff7ada4f131498204b63702c940ab8132f3b366a051d573c30fc673cc15508a8f0c":["v1/content/files/page-10.jpg"],"d46096e535fe1ccc89401649ed049851177b1e2008963d3cb1ee2798bba4ca55030ec832ba8f11d35cfd3855433b00cfc0011cb7e9e35953643c6d2890237821":["v1/content/files/page-08.jpg"],"dae9bfada802631d59da9676a49163c550fdf97277c092f91d3f62bb020a836605b5c3fe08eb3c48fb241d1ae6ec964641dabb4b39f657242b891e6a86ca926b":["v1/content/files/page-02.jpg"],"e2ca971f7ba3d3ee48a474b3bf42eb23f27a56244de4a1d4f5cf8641f200aeec2ccd6ca2cff4716aca7e49f0a27cfee2f29f603e27e522186d0cee315c8e52cc":["v1/content/files/page-03.jpg"]},"versions":{"v1":{"created":"2021-11-17T22:18:42.959998Z","state":{"0f1ebab95e178060a308e9a995c8018f14cd983f5440dbcb11824bf07864fd2d13c94566cd75e73e4f849fe53b3e6934a243af9ec4328820269a252dd6b807a8":["files/page-01.jpg"],"1061473819a743f6eef9482219abbff42876a5863daec4daeb1a059f3a323bcfa8ac08f71ff3b1da1010727b0ba164ac02f99beed26ce474a87d4d052a141b0c":["files/page-04.jpg"],"12d4b628a084ca106bce56455b4778a3b2cdb262c5eb4d44ba41ada2fe5b9f6c30b9525880c888d20c591d62b3442cdd473f362c18b6ffd1cc923c6b47e7e28d":["meta/files.json"],"270ffb7fc6771f9c1d49bcfbb2c5d75f873eb18da862de7da975393aca25249604826d15f8eb4f0a995fdc24de2e9115ac2676b71b5c747bac7b32763c9c1e29":["files/page-06.jpg"],"280968d8126d72e51ce4164d276b9960e8274c16e505191115f08c4f9c67be9d828e2876eac293e23e3792b62e9d5180397eaad52315c726caf0429a3682b74f":["files/page-05.jpg"],"38444da79278cf829aebe8a3c68e9ebebba14cea7355b30e22f3654160739404d107957127b42f6fc1a965a29be59f2853d1a24471b2594fbcfddcddcebf1515":["meta/record.json"],"39f68b0ac14f343c7fc46d05b6f6e37089746eb8a426c8c2accbf7cd2acb1ac005ab24dae514fc54a4a32569bd56e36ef50d0888ed6884e2c670191d228a5fd6":["files/page-07.jpg"],"7093278b2d5d72e88b8a0618025daf3f04c27f96b68da1ccf28dfd41eab295b095cdbad936e263d9d0fc17fe3e9ff7b01232dafb93032c7b62d1a1f0510b0d44":["files/page-09.jpg"],"a4c119d84ad390727619d9f14e116955cc72d59cb3f768698503fe3b0cd53ff7ada4f131498204b63702c940ab8132f3b366a051d573c30fc673cc15508a8f0c":["files/page-10.jpg"],"d46096e535fe1ccc89401649ed049851177b1e2008963d3cb1ee2798bba4ca55030ec832ba8f11d35cfd3855433b00cfc0011cb7e9e35953643c6d2890237821":["files/page-08.jpg"],"dae9bfada802631d59da9676a49163c550fdf97277c092f91d3f62bb020a836605b5c3fe08eb3c48fb241d1ae6ec964641dabb4b39f657242b891e6a86ca926b":["files/page-02.jpg"],"e2ca971f7ba3d3ee48a474b3bf42eb23f27a56244de4a1d4f5cf8641f200aeec2ccd6ca2cff4716aca7e49f0a27cfee2f29f603e27e522186d0cee315c8e52cc":["files/page-03.jpg"]}}}}
+{
+  "id": "https://ocfl.dev.data-futures.org/records/g4r4x-dzk27",
+  "type": "https://ocfl.io/1.0/spec/#inventory",
+  "digestAlgorithm": "sha512",
+  "head": "v1",
+  "contentDirectory": "content",
+  "fixity": {
+    "md5": {
+      "8783279b63f4873a4c1da25aa824895e": [
+        "v1/content/files/page-01.jpg"
+      ],
+      "a7ac48ec2340f4d1d913187937085674": [
+        "v1/content/files/page-04.jpg"
+      ],
+      "d495df923d3eef76ac18590aa8579def": [
+        "v1/content/meta/files.json"
+      ],
+      "876aa9c593a3b1d3db20f262405f1479": [
+        "v1/content/files/page-06.jpg"
+      ],
+      "7019659b8445b22607dee218a365be22": [
+        "v1/content/files/page-05.jpg"
+      ],
+      "215e2e2f925ea361ba5567ad3c33aac8": [
+        "v1/content/meta/record.json"
+      ],
+      "6eebcac0947a7c24ff706310f2128fd4": [
+        "v1/content/files/page-07.jpg"
+      ],
+      "59c8b3623e9d5185bd65c0b68231d84a": [
+        "v1/content/files/page-09.jpg"
+      ],
+      "470318ff2a7955272836c3c2c9cdae26": [
+        "v1/content/files/page-10.jpg"
+      ],
+      "ae69b665535e849963a38850c10b3862": [
+        "v1/content/files/page-08.jpg"
+      ],
+      "7985303c5d342ea8d0c33c32f49db9f6": [
+        "v1/content/files/page-02.jpg"
+      ],
+      "42b309379a2e956476765eef4f058afa": [
+        "v1/content/files/page-03.jpg"
+      ]
+    }
+  },
+  "manifest": {
+    "0f1ebab95e178060a308e9a995c8018f14cd983f5440dbcb11824bf07864fd2d13c94566cd75e73e4f849fe53b3e6934a243af9ec4328820269a252dd6b807a8": [
+      "v1/content/files/page-01.jpg"
+    ],
+    "1061473819a743f6eef9482219abbff42876a5863daec4daeb1a059f3a323bcfa8ac08f71ff3b1da1010727b0ba164ac02f99beed26ce474a87d4d052a141b0c": [
+      "v1/content/files/page-04.jpg"
+    ],
+    "12d4b628a084ca106bce56455b4778a3b2cdb262c5eb4d44ba41ada2fe5b9f6c30b9525880c888d20c591d62b3442cdd473f362c18b6ffd1cc923c6b47e7e28d": [
+      "v1/content/meta/files.json"
+    ],
+    "270ffb7fc6771f9c1d49bcfbb2c5d75f873eb18da862de7da975393aca25249604826d15f8eb4f0a995fdc24de2e9115ac2676b71b5c747bac7b32763c9c1e29": [
+      "v1/content/files/page-06.jpg"
+    ],
+    "280968d8126d72e51ce4164d276b9960e8274c16e505191115f08c4f9c67be9d828e2876eac293e23e3792b62e9d5180397eaad52315c726caf0429a3682b74f": [
+      "v1/content/files/page-05.jpg"
+    ],
+    "38444da79278cf829aebe8a3c68e9ebebba14cea7355b30e22f3654160739404d107957127b42f6fc1a965a29be59f2853d1a24471b2594fbcfddcddcebf1515": [
+      "v1/content/meta/record.json"
+    ],
+    "39f68b0ac14f343c7fc46d05b6f6e37089746eb8a426c8c2accbf7cd2acb1ac005ab24dae514fc54a4a32569bd56e36ef50d0888ed6884e2c670191d228a5fd6": [
+      "v1/content/files/page-07.jpg"
+    ],
+    "7093278b2d5d72e88b8a0618025daf3f04c27f96b68da1ccf28dfd41eab295b095cdbad936e263d9d0fc17fe3e9ff7b01232dafb93032c7b62d1a1f0510b0d44": [
+      "v1/content/files/page-09.jpg"
+    ],
+    "a4c119d84ad390727619d9f14e116955cc72d59cb3f768698503fe3b0cd53ff7ada4f131498204b63702c940ab8132f3b366a051d573c30fc673cc15508a8f0c": [
+      "v1/content/files/page-10.jpg"
+    ],
+    "d46096e535fe1ccc89401649ed049851177b1e2008963d3cb1ee2798bba4ca55030ec832ba8f11d35cfd3855433b00cfc0011cb7e9e35953643c6d2890237821": [
+      "v1/content/files/page-08.jpg"
+    ],
+    "dae9bfada802631d59da9676a49163c550fdf97277c092f91d3f62bb020a836605b5c3fe08eb3c48fb241d1ae6ec964641dabb4b39f657242b891e6a86ca926b": [
+      "v1/content/files/page-02.jpg"
+    ],
+    "e2ca971f7ba3d3ee48a474b3bf42eb23f27a56244de4a1d4f5cf8641f200aeec2ccd6ca2cff4716aca7e49f0a27cfee2f29f603e27e522186d0cee315c8e52cc": [
+      "v1/content/files/page-03.jpg"
+    ]
+  },
+  "versions": {
+    "v1": {
+      "created": "2021-11-17T22:18:42.959998Z",
+      "user": {
+        "name": "data-futures.org",
+        "address": "mailto:ocfl-export@data-futures.org"
+      },
+      "message": "Exported from https://ocfl.dev.data-futures.org",
+      "state": {
+        "0f1ebab95e178060a308e9a995c8018f14cd983f5440dbcb11824bf07864fd2d13c94566cd75e73e4f849fe53b3e6934a243af9ec4328820269a252dd6b807a8": [
+          "files/page-01.jpg"
+        ],
+        "1061473819a743f6eef9482219abbff42876a5863daec4daeb1a059f3a323bcfa8ac08f71ff3b1da1010727b0ba164ac02f99beed26ce474a87d4d052a141b0c": [
+          "files/page-04.jpg"
+        ],
+        "12d4b628a084ca106bce56455b4778a3b2cdb262c5eb4d44ba41ada2fe5b9f6c30b9525880c888d20c591d62b3442cdd473f362c18b6ffd1cc923c6b47e7e28d": [
+          "meta/files.json"
+        ],
+        "270ffb7fc6771f9c1d49bcfbb2c5d75f873eb18da862de7da975393aca25249604826d15f8eb4f0a995fdc24de2e9115ac2676b71b5c747bac7b32763c9c1e29": [
+          "files/page-06.jpg"
+        ],
+        "280968d8126d72e51ce4164d276b9960e8274c16e505191115f08c4f9c67be9d828e2876eac293e23e3792b62e9d5180397eaad52315c726caf0429a3682b74f": [
+          "files/page-05.jpg"
+        ],
+        "38444da79278cf829aebe8a3c68e9ebebba14cea7355b30e22f3654160739404d107957127b42f6fc1a965a29be59f2853d1a24471b2594fbcfddcddcebf1515": [
+          "meta/record.json"
+        ],
+        "39f68b0ac14f343c7fc46d05b6f6e37089746eb8a426c8c2accbf7cd2acb1ac005ab24dae514fc54a4a32569bd56e36ef50d0888ed6884e2c670191d228a5fd6": [
+          "files/page-07.jpg"
+        ],
+        "7093278b2d5d72e88b8a0618025daf3f04c27f96b68da1ccf28dfd41eab295b095cdbad936e263d9d0fc17fe3e9ff7b01232dafb93032c7b62d1a1f0510b0d44": [
+          "files/page-09.jpg"
+        ],
+        "a4c119d84ad390727619d9f14e116955cc72d59cb3f768698503fe3b0cd53ff7ada4f131498204b63702c940ab8132f3b366a051d573c30fc673cc15508a8f0c": [
+          "files/page-10.jpg"
+        ],
+        "d46096e535fe1ccc89401649ed049851177b1e2008963d3cb1ee2798bba4ca55030ec832ba8f11d35cfd3855433b00cfc0011cb7e9e35953643c6d2890237821": [
+          "files/page-08.jpg"
+        ],
+        "dae9bfada802631d59da9676a49163c550fdf97277c092f91d3f62bb020a836605b5c3fe08eb3c48fb241d1ae6ec964641dabb4b39f657242b891e6a86ca926b": [
+          "files/page-02.jpg"
+        ],
+        "e2ca971f7ba3d3ee48a474b3bf42eb23f27a56244de4a1d4f5cf8641f200aeec2ccd6ca2cff4716aca7e49f0a27cfee2f29f603e27e522186d0cee315c8e52cc": [
+          "files/page-03.jpg"
+        ]
+      }
+    }
+  }
+}
